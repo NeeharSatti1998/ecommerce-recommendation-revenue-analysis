@@ -165,7 +165,7 @@ UCI Online Retail Dataset — real transaction data from a UK-based online retai
 
 | Name | Role |
 |------|------|
-| [TEAMMATE NAME] | Data Analysis, RFM Segmentation, SQL Pipeline, Tableau Dashboard |
-| [YOUR NAME] | Machine Learning, API Development, LLM Integration |
+| SATYA SAHITHI VAKKALANKA | Data Analysis, RFM Segmentation, SQL Pipeline, Tableau Dashboard |
+| NEEHAR SATTI | Machine Learning, API Development, LLM Integration |
 
 ---
